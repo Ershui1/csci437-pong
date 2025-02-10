@@ -1,0 +1,6 @@
+C:/Users/Administrator/csci437-pong/build/CMakeFiles/bitmap.dir
+C:/Users/Administrator/csci437-pong/build/CMakeFiles/geom.dir
+C:/Users/Administrator/csci437-pong/build/CMakeFiles/helloworld.dir
+C:/Users/Administrator/csci437-pong/build/CMakeFiles/text.dir
+C:/Users/Administrator/csci437-pong/build/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/csci437-pong/build/CMakeFiles/rebuild_cache.dir

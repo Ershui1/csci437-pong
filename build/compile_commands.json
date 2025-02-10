@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Users/Administrator/csci437-pong/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/bitmap.dir/includes_CXX.rsp  -std=c++11 -g -o CMakeFiles\\bitmap.dir\\bin\\bitmap.cpp.obj -c C:\\Users\\Administrator\\csci437-pong\\bin\\bitmap.cpp",
+  "file": "C:/Users/Administrator/csci437-pong/bin/bitmap.cpp",
+  "output": "CMakeFiles/bitmap.dir/bin/bitmap.cpp.obj"
+},
+{
+  "directory": "C:/Users/Administrator/csci437-pong/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/geom.dir/includes_CXX.rsp  -std=c++11 -g -o CMakeFiles\\geom.dir\\bin\\geom.cpp.obj -c C:\\Users\\Administrator\\csci437-pong\\bin\\geom.cpp",
+  "file": "C:/Users/Administrator/csci437-pong/bin/geom.cpp",
+  "output": "CMakeFiles/geom.dir/bin/geom.cpp.obj"
+},
+{
+  "directory": "C:/Users/Administrator/csci437-pong/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/helloworld.dir/includes_CXX.rsp  -std=c++11 -g -o CMakeFiles\\helloworld.dir\\bin\\helloworld.cpp.obj -c C:\\Users\\Administrator\\csci437-pong\\bin\\helloworld.cpp",
+  "file": "C:/Users/Administrator/csci437-pong/bin/helloworld.cpp",
+  "output": "CMakeFiles/helloworld.dir/bin/helloworld.cpp.obj"
+},
+{
+  "directory": "C:/Users/Administrator/csci437-pong/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/text.dir/includes_CXX.rsp  -std=c++11 -g -o CMakeFiles\\text.dir\\bin\\text.cpp.obj -c C:\\Users\\Administrator\\csci437-pong\\bin\\text.cpp",
+  "file": "C:/Users/Administrator/csci437-pong/bin/text.cpp",
+  "output": "CMakeFiles/text.dir/bin/text.cpp.obj"
+}
+]
